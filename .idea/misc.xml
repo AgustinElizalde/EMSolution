@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/drawable/employee_btn2.xml" value="0.2265" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/drawable/login_btn.xml" value="0.2265" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/drawable/sale_btn1.xml" value="0.2265" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/drawable/sale_btn3.xml" value="0.2265" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/layout/activity_employee.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/layout/activity_login.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/layout/activity_sale.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/eagus/AndroidStudioProjects/EMSolution3/app/src/main/res/layout/activity_stock.xml" value="0.1911231884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
